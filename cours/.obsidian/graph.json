@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "tag:#cours  tag:#combinatoire  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Algo&Combinatoire/Heuristique  ",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "path:Algo&Combinatoire/Methaeuristique  ",
+      "color": {
+        "a": 1,
+        "rgb": 65322
+      }
+    },
+    {
+      "query": "path:Algo&Combinatoire/ProgrammationLinéaire  ",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:Algo&Combinatoire  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.2302285631627903,
+  "close": true
+}

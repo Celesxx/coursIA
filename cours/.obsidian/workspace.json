@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "b5bdb7bf226f5127",
+    "type": "split",
+    "children": [
+      {
+        "id": "790336792b9ad2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557a9068e24a1073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathématique/BigData/3-Dénombrement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ed55e9f07cca5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo&Combinatoire/Algorithme combinatoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb1a103b0bbcc984",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Mathématique/BigData/correctionProba.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37098f64219bf9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4243227d85ac97b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8142d7c4201c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23a568197e28324b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dfb9216e4266b64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "7af4c0ff6d786740",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ac662d325cce89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31cbd474c9fa6f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algo&Combinatoire/Algorithme combinatoire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4999376d81a5bf5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algo&Combinatoire/Algorithme combinatoire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6394124e88a4799b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7efc24546d006ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algo&Combinatoire/Algorithme combinatoire.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "excel:Create Excel File": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1ed55e9f07cca5ff",
+  "lastOpenFiles": [
+    "Algo&Combinatoire/ProgrammationLinéaire/3-Programmation linéaire.md",
+    "Introduction machine learning.md",
+    "Mathématique/BigData/3-Dénombrement.md",
+    "MachineLearning",
+    "Mathématique/BigData/correctionProba.pdf",
+    "Bdd/No-Sql.md",
+    "Mathématique/BigData/correctionDenombrement.pdf",
+    "Mathématique/BigData/support 3.pdf",
+    "Mathématique/BigData/maht.pdf",
+    "Mathématique/BigData/Support Cours+Exos.pdf",
+    "Probabilité.md",
+    "Excalidraw/Drawing 2024-03-21 08.15.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 10.53.53.excalidraw 1.png",
+    "Excalidraw/Drawing 2024-03-21 08.01.48.excalidraw.md",
+    "PythonAvancé/1- Les fondamentaux.md",
+    "PythonAvancé",
+    "PanoramaBigData/Panorama du big data.md",
+    "Bdd",
+    "Algo&Combinatoire/ProgrammationLinéaire/3.1-algorithme du simplexe.md",
+    "Algo&Combinatoire/ProgrammationLinéaire/3.2-programmation linéaire en nombre entiers.md",
+    "Mathématique/BigData/2-Espace réel a n dimension.md",
+    "Mathématique/BigData/2.1- Matrice.md",
+    "Mathématique/BigData/support1.pdf",
+    "Mathématique/Ia/Support cours et exos.pdf",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Algo&Combinatoire/MachineLearning/Machine learning.md",
+    "Excalidraw/Drawing 2024-03-19 11.57.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-18 17.46.22.excalidraw.md",
+    "Algo&Combinatoire/Algorithme combinatoire.md",
+    "Algo C/Conteneur associatif.md",
+    "Anglais/Business english 11-12-2023.md",
+    "Anglais/Business english 18-03-2024.md",
+    "Anglais/Business english 13-11-2023.md",
+    "Excalidraw/Drawing 2024-02-16 18.37.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 10.53.53.excalidraw.png",
+    "Excalidraw/Drawing 2024-01-24 10.53.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-14 10.21.03.excalidraw.md",
+    "Algo&Combinatoire/ProgrammationLinéaire/asset/exempleProgrammationLineaire.md",
+    "Projet fin d'année.md",
+    "Algo&Combinatoire/Methaeuristique/asset/DrawNaive.png"
+  ]
+}

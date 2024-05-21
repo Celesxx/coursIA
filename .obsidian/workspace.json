@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "d67b75cb7002525b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f735bc98c7b19fcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e709b569008ac39",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cours/MachineLearning/pdf/[Slides] Generaliser_ModeleLineaire_PMC.pdf"
+              }
+            }
+          },
+          {
+            "id": "2b79447cb46cdd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7906e6a8160021cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/MachineLearning/2.4-Radial Basis Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2913c2b2752bedd9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "cours/MachineLearning/assets/gradient.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32d5a7b57754c881",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba34129f7c77cf12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc64665b054f7d6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cffb549cafaf24f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "153c64c3c5bcce39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "4c823f4e6160829f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa402519326a185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51354bcd73aa8f46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cours/MachineLearning/2.4-Radial Basis Function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38f6760ebb5cada9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cours/MachineLearning/2.4-Radial Basis Function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10e536e153b7847b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f6e9f845c80a70b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cours/MachineLearning/2.4-Radial Basis Function.md"
+              }
+            }
+          },
+          {
+            "id": "8f69c281556e5982",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7906e6a8160021cb",
+  "lastOpenFiles": [
+    "cours/MachineLearning/2.3-Perceptron multi couche.md",
+    "cours/MachineLearning/2.4-Fonction d'optimisation.md",
+    "cours/MachineLearning/assets/gradient.md",
+    "Markdown.md",
+    "cours/MachineLearning/pdf/[Slides] Generaliser_ModeleLineaire_PMC.pdf",
+    "cours/MachineLearning/assets/gradient2.md",
+    "cours/MachineLearning/assets/mlp.excalidraw.md",
+    "cours/MachineLearning/Machine learning.md",
+    "cours/MachineLearning/1.1-Modèle Linéaire.md",
+    "cours/MachineLearning/2.1-Fonction d'activation.md",
+    "cours/MachineLearning/2.4-Radial Basis Function.md",
+    "cours/MachineLearning/2.2-Regression linéaire.md",
+    "cours/MachineLearning/2-Deep Learning.md",
+    "cours/MachineLearning/assets/neural.excalidraw.md",
+    "cours/MachineLearning/assets/ML-intro.excalidraw.md",
+    "cours/MachineLearning/assets/ML-intro.excalidraw.png",
+    "cours/MachineLearning/pdf/[Slides] Intro - IA_ ML_ DL.pdf",
+    "Excalidraw/Drawing 2024-05-17 15.07.50.excalidraw.md",
+    "cours/MachineLearning/1-Machine Learning.md",
+    "cours/MachineLearning/3-Framework Machine learning.md",
+    "cours/Mathématique/BigData/3-Dénombrement.md",
+    "cours/MachineLearning/pdf/Modèle Linéaire.pdf",
+    "cours/Mathématique/BigData/asset/Drawing 2024-03-21 08.15.33.excalidraw.md",
+    "cours/Excalidraw/Drawing 2023-12-14 10.21.03.excalidraw.md",
+    "cours/Mathématique/BigData/asset/Drawing 2024-03-21 08.01.48.excalidraw.md",
+    "cours/Excalidraw/Drawing 2024-01-24 10.53.53.excalidraw.md",
+    "cours/PythonAvancé/1.3-Fonction avancée - Gestion mémoire.md",
+    "cours/PythonAvancé/1.2-Fonction avancée - Type Checking.md",
+    "cours/PythonAvancé/1.1-Fonction avancée.md",
+    "cours/MachineLearning/pdf/[Slides] RBF et SVM.pdf",
+    "cours/MachineLearning/pdf/[Exemple] SVM en Mathematica.pdf",
+    "cours/MachineLearning/pdf/[Exemple] Linear Regression with Mathematica.pdf",
+    "cours/MachineLearning/pdf",
+    "cours/Mathématique/BigData/Support Cours+Exos.pdf",
+    "cours/Mathématique/BigData/probabiliteCorrection.pdf",
+    "cours/Rust.rar",
+    "cours/MachineLearning/assets/png/lineaireIntro.excalidraw.png",
+    "cours/Excalidraw/Drawing 2024-01-24 10.53.53.excalidraw.png",
+    "cours/Excalidraw/Drawing 2024-01-24 10.53.53.excalidraw 1.png"
+  ]
+}

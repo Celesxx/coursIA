@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "tag:#MachineLearning  OR tag:#mathematique OR tag:#rust  OR tag:#mathematique  OR tag:#python  OR tag:#combinatoire  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#mathematique  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#rust  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725120
+      }
+    },
+    {
+      "query": "tag:#combinatoire  ",
+      "color": {
+        "a": 1,
+        "rgb": 1048816
+      }
+    },
+    {
+      "query": "tag:#python",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#MachineLearning  ",
+      "color": {
+        "a": 1,
+        "rgb": 2994150
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.80989583333333,
+  "lineSizeMultiplier": 2.79244791666667,
+  "collapse-forces": true,
+  "centerStrength": 0.474340420794835,
+  "repelStrength": 8.91684292552599,
+  "linkStrength": 1,
+  "linkDistance": 141,
+  "scale": 0.7497351942801181,
+  "close": true
+}

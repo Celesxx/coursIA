@@ -1,0 +1,17 @@
+{
+  "snippets_file": "snippets : <span class=h1>\nsnippets : test\nsnippets : $end$\nsnippets : </span>",
+  "snippets": [
+    "snippets : <span class=h1>",
+    "snippets : test",
+    "snippets : $end$",
+    "snippets : </span>"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
